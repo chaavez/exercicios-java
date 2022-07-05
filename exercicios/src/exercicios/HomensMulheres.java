@@ -41,5 +41,6 @@ public class HomensMulheres {
 			System.out.println("A maior altura do grupo é: " + maior);
 			System.out.println("A média de altura dos homens é: " + mediaH);
 			System.out.println("O número de mulheres do grupo é: " + qtMulheres);
+			sc.close();
 		}
 	}

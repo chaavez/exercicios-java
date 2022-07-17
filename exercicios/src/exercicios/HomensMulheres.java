@@ -13,7 +13,7 @@ public class HomensMulheres {
 	
 	public static void main (String[] args) {
 		
-		int sexo, qtHomens = 0, qtMulheres = 0;
+		int qtHomens = 0, qtMulheres = 0, sexo;
 		float altura, mediaH = 0, menor = 3, maior = 0, somaAltura =0;
 		Scanner sc = new Scanner(System.in);
 		

@@ -17,7 +17,7 @@ public class AumentoSalario {
 			salAtualizado = salario + (aumentSal * salario / 100);
 			aumentSal = aumentSal * 2;
 			ano++;
-		} while (ano < 1997); {
+		} while (ano < 1999); {
 			System.out.println(salAtualizado);
 		}
 	}
